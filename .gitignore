@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# build
+build/
+dist/
+out/
+
+# logs
+*.log
+
+# python
+__pycache__/
+*.pyc
+venv/
+
+# node
+node_modules/
+
+# vscode
+.vscode/
+
+# secrets
+.env
+.env.local
